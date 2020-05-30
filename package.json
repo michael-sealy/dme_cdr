@@ -1,0 +1,12 @@
+{
+  "name": "arduino_dme",
+  "version": "1.0.0",
+  "description": "arduino node-js code for artificial hand",
+  "main": "index.js",
+  "repository": "https://github.com/michael-sealy/arduino_dme.git",
+  "author": "Michael Sealy <msealy36@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "johnny-five": "^1.4.0"
+  }
+}
